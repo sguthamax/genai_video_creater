@@ -146,3 +146,10 @@ Workers handle heavy lifting.
 Status stored in Redis/MongoDB.
 
 Horizontal scaling with more workers for high demand.
+
+
+🔥 Next Steps:
+ 
+✅ Create a bottleneck mitigation checklist with code snippets
+✅ Redesign the pipeline for async + background jobs
+✅ Convert audio mixing & video rendering to FFmpeg for speed
